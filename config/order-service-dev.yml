@@ -33,4 +33,11 @@ spring:
   
 server:
   port: 8202
+  
+  rabbitmq:
+    host: 192.168.74.132
+    port: 5672
+    username: admin
+    password: admin
+
 
